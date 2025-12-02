@@ -4,15 +4,6 @@ I'm a passionate **`Full Stack Developer in the making`**, currently focused on 
 
 ---
 
-## 🚀 What I'm Currently Learning
-- Full Stack Development (Frontend ➝ Backend)
-- React.js (Components, Hooks, State Management)
-- Node.js + Express.js (REST APIs, Middleware, Auth)
-- MongoDB (Schemas, Models, Mongoose)
-- Git & GitHub (Branching, Pull Requests, Collaboration)
-
----
-
 ## 🛠️ Tech Stack
 **Frontend:**  
 HTML • CSS • JavaScript (ES6+) • React.js • TailwindCSS • Typescript • Redux
