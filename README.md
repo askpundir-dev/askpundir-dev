@@ -25,8 +25,8 @@ I'm a passionate **`Full Stack Developer in the making`**, currently focused on 
 
 ## 📂 Featured Projects
 
-- `[**Portfolio Website**]`(https://github.com/askpundir-dev/portfolio)
-- [**Amazon Frontend Clone**](https://github.com/askpundir-dev/amazon-frontend-clone)
+- [**`Portfolio Website`**](https://github.com/askpundir-dev/portfolio)
+- [**`Amazon Frontend Clone`**](https://github.com/askpundir-dev/amazon-frontend-clone)
 - [**E-commerce React Clone**](https://github.com/askpundir-dev/ecommerce-react-clone)
 - [**Image Gallery**](https://github.com/askpundir-dev/codealpha-image-gallery)
 
