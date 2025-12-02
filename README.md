@@ -27,8 +27,8 @@ I'm a passionate **`Full Stack Developer in the making`**, currently focused on 
 
 - [**`Portfolio Website`**](https://github.com/askpundir-dev/portfolio)
 - [**`Amazon Frontend Clone`**](https://github.com/askpundir-dev/amazon-frontend-clone)
-- [**E-commerce React Clone**](https://github.com/askpundir-dev/ecommerce-react-clone)
-- [**Image Gallery**](https://github.com/askpundir-dev/codealpha-image-gallery)
+- [**`E-commerce React Clone`**](https://github.com/askpundir-dev/ecommerce-react-clone)
+- [**`Image Gallery`**](https://github.com/askpundir-dev/codealpha-image-gallery)
 
 ## 📈 What’s Next?
 
@@ -38,7 +38,7 @@ I'm a passionate **`Full Stack Developer in the making`**, currently focused on 
 
 ## 📫 Contact Me
 
-- [**LinkedIn**](https://www.linkedin.com/in/abhi-dev-pundir/)
-- [**Portfolio**](https://react-portfolio-ask.netlify.app/)
+- [**`LinkedIn`**](https://www.linkedin.com/in/abhi-dev-pundir/)
+- [**`Portfolio`**](https://react-portfolio-ask.netlify.app/)
 
 ⭐ _Always learning, always building — one project at a time._
