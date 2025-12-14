@@ -29,6 +29,7 @@ I'm a passionate **`Full Stack Developer in the making`**, currently focused on 
 - [**`Amazon Frontend Clone`**](https://github.com/askpundir-dev/amazon-frontend-clone)
 - [**`E-commerce React Clone`**](https://github.com/askpundir-dev/ecommerce-react-clone)
 - [**`Image Gallery`**](https://github.com/askpundir-dev/codealpha-image-gallery)
+- [**`Task Management App`**](https://github.com/askpundir-dev/task_management_app)
 
 ## 📈 What’s Next?
 
