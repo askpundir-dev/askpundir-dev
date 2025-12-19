@@ -35,7 +35,6 @@ I'm a passionate **`Full Stack Developer in the making`**, currently focused on 
 
 - Deep diving into APIs, performance & clean code
 - Building scalable backend structures
-- Applying for full-stack / frontend opportunities
 
 ## 📫 Contact Me
 
