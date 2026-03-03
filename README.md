@@ -1,20 +1,23 @@
 # 👋 Hi, I'm Abhishek Pundir
 
-I'm a passionate **`Full Stack Developer in the making`**, currently focused on mastering the **`MERN Stack`** and building real-world projects to sharpen my skills.
+I'm a passionate **`Full Stack Developer`** at **`Triline Infotech Pvt. Ltd`**, focused on building scalable and production-ready web applications. I specialize in the MERN Stack and enjoy solving real-world problems through clean, efficient code.
+
+I’m continuously learning and refining my skills in system design, performance optimization, and modern web technologies.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:**  
-   HTML • CSS • JavaScript (ES6+) • React.js • TailwindCSS • Typescript • Redux
+- **🚀 Frontend:**  
+   HTML • CSS • JavaScript (ES6+) • TypeScript • React.js • Next.js • Tailwind CSS • Redux
 
-- **Backend:**  
+- **⚙️ Backend:**  
    Node.js • Express.js • REST APIs • Authentication (JWT, Bcrypt)
 
-- **Database:**  
-   MongoDB • Mongoose
+- **🗄️ Database:**  
+   MongoDB • Mongoose • MySQL
 
-- **Tools:**  
-   VS Code • Git • GitHub • Postman • Vite
+- **🧰 Tools & Workflow**  
+   Git • GitHub • VS Code • Postman • Vite
+  
 
 ## 📌 Current Focus
 
